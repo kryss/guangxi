@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Guangxi::Application.config.secret_token = '72e7a7c57e02a785e5013830b19d8a85b11b66e8a07bcf61cd13a4839bb395ff10e1868fd94bea71efbaa62ab4b31a00b707e7c398f5306c07265ff7c6cd1512'
+Guangxi::Application.config.secret_token = '15f5ab08dcf6c7c2e7c7e2bc18a7063aaf44f7a35b22586557a8e116db24a3c152f42af2dae0361166bbdf0083d44edfeff99983c80cf790131bcee829f2be03'

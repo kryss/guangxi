@@ -2,4 +2,28 @@
 # See http://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
 en:
-  hello: "Hello world"
+  title: "GuangXi"
+  email: "Email"
+  password: "Password"
+  phone: "Phone number"
+  name: "Name"
+  company: "Company"
+  mobile_phone: "Mobile Phone"
+  address: "Address"
+
+  
+  links:
+      edit_profile: "Edit profile"
+      show_profile: "Show profile"
+      previous: "Previous"
+      next: "Next"
+  
+  devise:
+      resend_confirmation: "Resend confirmation instructions"
+      reset_password: "Send me reset instructions"
+      password_confirmation: "Please retype your password"
+      signup: "Sign up"
+      logout: "Log out"
+      remember_me: "Remember me"
+      login: "Log in"
+      change_password: "Change your password"
