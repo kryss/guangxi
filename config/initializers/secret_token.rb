@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-RProAPI2::Application.config.secret_token = '0602b98df2406d40dff1ea423156ab1ba4e7af41d8ca7a4eaa94cebb46440f868aad7030033a4710635e9b9392259a927f7d11967893a7cd330ad23bbbaaec6f'
+Guangxi::Application.config.secret_token = '72e7a7c57e02a785e5013830b19d8a85b11b66e8a07bcf61cd13a4839bb395ff10e1868fd94bea71efbaa62ab4b31a00b707e7c398f5306c07265ff7c6cd1512'
