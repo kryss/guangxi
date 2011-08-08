@@ -11,6 +11,8 @@ gem "mongoid"
 gem "bson_ext"
 gem 'web-app-theme'
 gem 'SystemTimer'
+gem "mongoid_taggable", "~> 0.1.7"
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
